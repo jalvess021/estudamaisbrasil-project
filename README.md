@@ -8,11 +8,10 @@ Este projeto é uma plataforma EAD (Educação a Distância) desenvolvida para o
 
 ## 🔧 Contribuições
 
-As contribuições para este projeto incluem:
+Como desenvolvedor **FullStack**, as contribuições para este projeto incluem:
 
 -  **Desenvolvimento de Funcionalidades**: Criação e integração de novas funcionalidades.
--  **Manutenção e Atualizações**: Atualizações e manutenção na plataforma.
--  **Suporte Técnico**: Resolução de problemas e otimização da performance.
+-  **Manutenção e Atualizações**: Atualizações, manutenção e otimização na plataforma.
 
 ## 🛠️ Tecnologias Utilizadas
 
