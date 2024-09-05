@@ -4,7 +4,7 @@ Este projeto é uma plataforma EAD (Educação a Distância) desenvolvida para o
 
 -  **Cursos Diversificados**: Oferece uma ampla gama de cursos.
 -  **Aulas e Módulos**: Estrutura para gerenciamento de aulas e módulos.
--  **Gerenciamento de Turmas**: Ferramentas para administração de turmas e interação entre alunos e instrutores.
+-  **Gerenciamento de Turmas**: Ferramentas para administração de turmas e interação entre milhares de alunos e instrutores.
 
 ## 🔧 Contribuições
 
